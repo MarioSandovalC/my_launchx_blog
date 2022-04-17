@@ -5,7 +5,7 @@ menu:
     name: "AboutMe"
 ---
 
-## Who am I
+## Conóceme
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 

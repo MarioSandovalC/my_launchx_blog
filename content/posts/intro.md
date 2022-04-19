@@ -23,6 +23,8 @@ y así poder adaptarse a cualquier ámbito profesional.
 
 ¡Saludos!
 
+
+## Software Developer's Culture
 ¡Welcome! 
 
 Today I'm gonna tell you the main professional values of a software developer:

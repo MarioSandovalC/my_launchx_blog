@@ -6,7 +6,17 @@
     <description>Recent content in Launch X Bitácora de viaje on Bitácora de Viaje Mario Sandoval</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 21 Feb 2022 18:16:21 -0600</lastBuildDate><atom:link href="https://mariosandovalc.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://mariosandovalc.github.io/my_launchx_blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mi travesía en Launch X</title>
+      <link>https://mariosandovalc.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://mariosandovalc.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>A través de este gran proyecto como lo es Launch X he aprendido las bases de algunos lenguajes de programación como Python, así mismo he desarrollado las habilidades necesarias para poder ser un desarrollador JR, me han brindado las herramientas necesarias para seguir avanzando en el mundo des desarrollo Web.
+Aprendí lo útil y robusto que puede llegar a ser git y lo crucial que es en el mundo de la tecnología y que no es una herramienta sencilla de utilizar para un desarrollador de software.</description>
+    </item>
+    
     <item>
       <title>Cultura de un desarrollador de Software</title>
       <link>https://mariosandovalc.github.io/my_launchx_blog/posts/intro/</link>
